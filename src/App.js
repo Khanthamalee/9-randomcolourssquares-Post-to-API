@@ -1,25 +1,27 @@
-import logo from './logo.svg';
+import React, { Component, Fragment } from "react";
+import Showsqueres from "./squares";
+import UpdateData from "./update";
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <Fragment>
+        <div>
+          <header className="App">
+            <h2>Name : Khanthamalee Na-udom</h2>
+            <a href="https://khanthamalee.github.io/9-random-colours-squares/">
+                <button class="bubbly-button" >Random-colours</button></a>
+          </header>
+        </div>
+ 
+        <Showsqueres  />
+        <UpdateData />
+      </Fragment>
+    );
+  }
 }
 
 export default App;
+  
+    
