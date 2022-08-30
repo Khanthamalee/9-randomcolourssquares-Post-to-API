@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/9-randomcolourssquares-Post-to-API/static/css/main.c7d4cb89.css",
+    "main.js": "/9-randomcolourssquares-Post-to-API/static/js/main.025225b3.js",
+    "static/js/787.e551774b.chunk.js": "/9-randomcolourssquares-Post-to-API/static/js/787.e551774b.chunk.js",
+    "index.html": "/9-randomcolourssquares-Post-to-API/index.html",
+    "main.c7d4cb89.css.map": "/9-randomcolourssquares-Post-to-API/static/css/main.c7d4cb89.css.map",
+    "main.025225b3.js.map": "/9-randomcolourssquares-Post-to-API/static/js/main.025225b3.js.map",
+    "787.e551774b.chunk.js.map": "/9-randomcolourssquares-Post-to-API/static/js/787.e551774b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7d4cb89.css",
+    "static/js/main.025225b3.js"
+  ]
+}
