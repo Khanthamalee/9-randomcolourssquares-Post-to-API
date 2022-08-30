@@ -10,7 +10,7 @@ class App extends Component {
         <div>
           <header className="App">
             <h2>Name : Khanthamalee Na-udom</h2>
-            <a href="https://khanthamalee.github.io/9-random-colours-squares/">
+            <a href="https://khanthamalee.github.io/9-randomcolourssquares-Post-to-API/">
                 <button class="bubbly-button" >Random-colours</button></a>
           </header>
         </div>
