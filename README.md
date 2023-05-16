@@ -1,4 +1,4 @@
-ตอนนี้ ling api ใช้ไม่ได้จ้า ถ้าทดลองใช้ให้รับ ngrok ของ https://github.com/Khanthamalee/API-TOKEN เอาเด้อ
+ตอนนี้ ling api ใช้ไม่ได้จ้า ถ้าทดลองใช้ให้รัน ngrok ของ https://github.com/Khanthamalee/API-TOKEN เอาเด้อ
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
